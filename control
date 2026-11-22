@@ -1,0 +1,8 @@
+Package: com.anazerka.vibrator6
+Name: Vibrator 6
+Version: 1.5.0
+Architecture: iphoneos-arm
+Description: Идеальный вибратор для iOS 6 с кастомными паттернами, регулировкой мощности, тачпадом и фоновым режимом
+Maintainer: anazerka
+Author: anazerka
+Section: Utilities
